@@ -1,3 +1,6 @@
+<p align="center"><img src="holdfast-icon.svg" width="96" height="96" alt="holdfast logo"></p>
+<h1 align="center">holdfast</h1>
+
 ## Every account. One root. Your server.
 
 **Holdfast** is an open-source, self-hosted personal finance app: banks, cards, 401(k), HSA, brokerage and crypto in one place you run yourself.
